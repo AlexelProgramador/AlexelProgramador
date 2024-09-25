@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, Welcome to my Github profile 👋</h1>
 
-<!--
-**AlexelProgramador/AlexelProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/2Y2nJtS.gif">
+</p>
 
-Here are some ideas to get you started:
+<p>I'm <strong>Nicolás Lampe Huenul</strong>, a passionate <strong>Computer Science Engineer</strong> with a strong focus on <strong>Software Development</strong> and <strong>Data Science</strong>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I enjoy building scalable applications, crafting efficient backend solutions (though I'm trying to improve my front-end skills!!), and uncovering insights through data analysis. Whether it's coding APIs or working with large datasets, I’m always eager to solve complex problems and create impactful solutions.</p>
+
+<p>💻 Let's connect and collaborate on exciting projects!</p>
+
+<hr>
+
+<h2>📫 How to reach me</h2>
+
+<ul>
+  <li>Email: <a href="mailto:nicolas.lampeh@gmail.com">nicolas.lampeh@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/nicolas-lampe-huenul/">https://www.linkedin.com/in/nicolas-lampe-huenul//</a></li>
+  <li>Portfolio: <a href="https://alexelprogramador.dev">alexelprogramador.dev</a></li>
+</ul>
+
+<p align="center">
+  <img src="https://tasinishmam.com/images/foobar/dancing_bunny.gif">
+</p>
